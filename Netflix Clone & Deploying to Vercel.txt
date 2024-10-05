@@ -10,3 +10,5 @@ small screens => less than 586px
 Deploying the project to Vercel:
 Visit https://vercel.com/.
 Create a new account using Github creds.
+Push the project to Github.
+Import it in the Vercel and get a link.
