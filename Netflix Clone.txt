@@ -1,0 +1,12 @@
+Part 4: Netflix Clone
+
+3 things to keep in mind while working on a clone Project:
+1. The concepts that are being used to create a clone and how can we implement it.
+-There is a background image and text on top of it. So absolute, relative concept is getting used.
+-We have a search box and a button side by side which means a flexbox is getting used.
+2. Once we undersood the concept we need to focus on the assets that we need such as images, logos, videos.
+
+Use <svg> grabber chrome extension to download all the logos and images used in the actual website.
+
+If we only apply transform property to any element, that element originates from the center of the page and sice it has its own height and width it appears to be shifted on the right hand side of the page. Hence we need to use translate property along with the transform property to place the content in the center of the page..
+Whenever we apply transform and translate together, by adjusting the height and width of the content it is brought in the center of the page.

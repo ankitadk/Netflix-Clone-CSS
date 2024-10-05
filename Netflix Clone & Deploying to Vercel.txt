@@ -1,0 +1,12 @@
+Part 7: Netflix Clone & Deploying to Vercel
+
+https://archive.org/ => get old versions of different websites like Netflix.
+
+Resolutions:
+big screens => 990px and above
+medium screens => 586px to 990px
+small screens => less than 586px
+
+Deploying the project to Vercel:
+Visit https://vercel.com/.
+Create a new account using Github creds.
