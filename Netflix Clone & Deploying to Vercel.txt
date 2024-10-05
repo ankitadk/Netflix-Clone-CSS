@@ -12,3 +12,7 @@ Visit https://vercel.com/.
 Create a new account using Github creds.
 Push the project to Github.
 Import it in the Vercel and get a link.
+
+If you want to make any chnages to ur app then update the code and push it to the git hub repo.
+The same will be automatically reflected on to the vercel. So its real time, superfast and free to use.
+Hence avoid using Github pages and use Vercel instead.
