@@ -16,3 +16,5 @@ Import it in the Vercel and get a link.
 If you want to make any chnages to ur app then update the code and push it to the git hub repo.
 The same will be automatically reflected on to the vercel. So its real time, superfast and free to use.
 Hence avoid using Github pages and use Vercel instead.
+
+Netflic clone Vercel Link: https://netflix-clone-css-tan.vercel.app/
